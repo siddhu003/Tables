@@ -1,5 +1,5 @@
 # Tables
-This is an application made using MERN stack
+#This is an application made using MERN stack
 
 I imported the given data (sample_data.json) to MongoDB
 I connect the backend (MongoDB) to my application using a Connection URL
