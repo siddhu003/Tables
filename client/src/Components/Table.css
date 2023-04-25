@@ -1,0 +1,26 @@
+table {
+    width: 1700px;
+    height: 100px;
+    border-collapse: collapse;
+}
+
+.top10Cities table{
+    width: 500px;
+}
+
+th {
+    border-bottom: 1px solid black;
+    border: 2px solid black;
+}
+
+td {
+    text-align: center;
+    border: 2px solid black;
+    text-align: start;
+    padding: 2px;
+}
+
+div
+{
+    padding-left: 10px;
+}
